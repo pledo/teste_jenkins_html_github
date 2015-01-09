@@ -1,0 +1,3 @@
+ o Jenkins ja esta no ar, e temos umscript ja para o teste de infra
+ agora e iniciar o pipeline para CD
+
