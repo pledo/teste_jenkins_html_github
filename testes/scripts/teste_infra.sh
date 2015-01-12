@@ -1,7 +1,4 @@
 #!/bin/bash
-Esse é op primeiro teste, para fazer o pipeline
-
-
 
 function testando_servico()
 {
